@@ -17,6 +17,17 @@ The **Ribeiro Training Method** is a systematic approach to strength training de
 
 ## **Types of Sets 🏋️‍♂️**
 
+### **Set 0: Warm-Up Set 🔄**
+- **Purpose:** To prepare the muscles, joints, and nervous system for heavy lifting.
+- **Number of sets:** 1
+- **Speed:** Normal
+- **Weight:** Light weight (~50% of your Heavy Set weight).
+- **Reps:** 12-15 reps, controlled pace.
+- **Instructions:**
+  1. Perform 12-15 slow and controlled reps with a **light weight**.
+  2. Focus on **proper form and muscle activation**.
+  3. Do **not** push to failure—this set is only to warm up and prevent injury.
+
 ### **Heavy Set (Max-Effort Set) 💥**
 - **Number of sets:** 1 (if reps are not met, repeat with adjusted weight)
 - **Speed:** Normal, controlled, strict form
@@ -44,7 +55,7 @@ The **Ribeiro Training Method** is a systematic approach to strength training de
 ---
 
 ## **Workout Structure (Sets per Exercise) 📋**
-
+0. **Set 0:** Warm-Up Set 🔄
 1. **Set 1:** Heavy Set 💪
 2. **Set 2:** Fatigue Set 🔥
 3. **Set 3:** Fatigue Set 🔥
@@ -56,12 +67,14 @@ The **Ribeiro Training Method** is a systematic approach to strength training de
 ## **Examples 📊**
 
 ### **Example 1 (Standard Execution) ✅**
+- **Set 0:** Warm-Up Set - 15 reps @ 25kg
 - **Set 1:** Heavy Set - 14 reps @ 50kg
 - **Set 2:** Fatigue Set - 20 reps @ 20kg
 - **Set 3:** Fatigue Set - 18 reps @ 20kg
 - **Set 4:** Fatigue Set - 13 reps @ 20kg
 
 ### **Example 2 (Heavy Set Adjustment Needed) ❌➡️✅**
+- **Set 0:** Warm-Up Set - 15 reps @ 30kg
 - **Set 1:** Heavy Set - 8 reps @ 70kg (**did not reach 12 reps, weight must be lowered**)
 - **Set 2:** Heavy Set - 12 reps @ 60kg
 - **Set 3:** Fatigue Set - 20 reps @ 20kg
@@ -69,6 +82,7 @@ The **Ribeiro Training Method** is a systematic approach to strength training de
 - **Set 5:** Fatigue Set - 13 reps @ 20kg
 
 ### **Example 3 (Multiple Heavy Set Adjustments Needed) ❌➡️❌➡️✅**
+- **Set 0:** Warm-Up Set - 15 reps @ 40kg
 - **Set 1:** Heavy Set - 6 reps @ 80kg (**did not reach 12 reps, weight must be lowered**)
 - **Set 2:** Heavy Set - 8 reps @ 65kg (**still too heavy, adjust further**)
 - **Set 3:** Heavy Set - 12 reps @ 50kg ✅
@@ -77,6 +91,7 @@ The **Ribeiro Training Method** is a systematic approach to strength training de
 - **Set 6:** Fatigue Set - 13 reps @ 20kg
 
 ### **Example 4 (Fatigue Set Adjustment Needed) 🔄**
+- **Set 0:** Warm-Up Set - 15 reps @ 25kg
 - **Set 1:** Heavy Set - 12 reps @ 50kg ✅
 - **Set 2:** Fatigue Set - 8 reps @ 20kg (**did not reach 12 reps, must redo with lower weight**)
 - **Set 3:** Fatigue Set - 18 reps @ 10kg
@@ -112,4 +127,3 @@ Yes! This method is effective for both **compound** and **isolation** exercises.
 ---
 
 **Ready to train beyond failure? Implement the Ribeiro Training Method and watch your strength and endurance skyrocket! 🚀🏋️‍♂️**
-
